@@ -1,0 +1,4 @@
+Uses of Super Keyword:
+1)Super Cant be used with Static context, as main method is static we cant use it in that.
+2)Only overriden methods get called USING super.
+3)We can call instance variabel aslo using super.
